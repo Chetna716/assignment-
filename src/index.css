@@ -19,7 +19,7 @@ body {
   margin: 0;
   min-width: 320px;
   min-height: 100vh;
-  background-color: #25282f; /* DarkSlateGray page background */
+  background-color: #25282f; 
 }
 
 h1 {
@@ -45,3 +45,4 @@ button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
+

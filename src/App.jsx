@@ -23,7 +23,7 @@ function App() {
       <div className="left-pane" />
 
       <div className="right-pane">
-        {/* Top Card: About/Experiences/Recommended */}
+        
         <div className="card top-card">
           <div className="card-header">
             <button className="icon-btn" aria-label="info">?</button>
@@ -102,7 +102,7 @@ function App() {
 
         <div className="divider" />
 
-        {/* Bottom Card: Gallery */}
+        
         <div className="card gallery-card">
           <div className="card-header">
             <button className="icon-btn" aria-label="gallery info">?</button>
@@ -149,3 +149,4 @@ function App() {
 }
 
 export default App
+
